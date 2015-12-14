@@ -1,8 +1,8 @@
 # Amazon-Order-History
-This script is used to pull amazon order history from multiple accounts, and stores them locally. I created this since I have lots of amazon prime accounts, and I was always having to remember which account I used to order a specefic item if I needed to go back and get some information about the item.
+This script is used to pull Amazon order histories from multiple accounts, and store them locally. Since I have many Amazon Prime accounts, I created this script instead of having to remember which account I used when ordering a specific item. This way I can easily retrieve information about an item, without having to rememeber which account I used.
 
 #Usage
-On the first run of getOrderHistory.py an accounts.csv file will be created. Fill this out with all your amazon accounts. Run the script again and the created history.html will contain all of your orders. Open it up in a browser and it should like a lot like amazon.com order history page.
+On the first run of getOrderHistory.py an accounts.csv file will be created. Fill this out with all your Amazon accounts. Run the script again and the created history.html will contain all of your orders. Open it up in a browser and it should look a lot like an amazon.com order history page.
 
 #Disclaimer
-amazonUI.css, and orderHistory.css are pulled from amazon.com, and are not my code. They are used by history.html to make the page look excatly like it does on amazon.com
+amazonUI.css, and orderHistory.css are pulled from amazon.com, and are not my code. They are used by history.html to make the page look exactly like it does on amazon.com
